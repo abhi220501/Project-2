@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  color:white;
+}
+
+table{
+  margin:auto;
+  font-family: 'Montserrat', sans-serif;
+  padding: 40px;
+  border-width: 2px;
+}
+td{
+  padding:15px;
+}
+
+
+h1, h2 {
+  font-family: 'Merriweather', serif;
+}
+
+p, input{
+  font-family: 'Montserrat', sans-serif;
+}
+
+img{
+  border-radius: 20%;
+}
+
+input{
+  padding: 10px;
+  width: 12rem;
+}
